@@ -16,7 +16,6 @@
 
 - 🎓 Final-year B.Tech CSE student
 - 🏫 College of Engineering Chengannur
-- 🚀 Currently working on Helen AI
 - 🌱 Learning Full Stack Development and AI
 - 💡 Interested in software development and problem solving
 - 📍 Kerala, India
