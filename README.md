@@ -52,19 +52,6 @@ for organizing and managing campus events.
 ---
 
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=souravsanthoshk-code
-&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=souravsanthoshk-code
-&layout=compact&theme=tokyonight" />
-</p>
-
-
 ### 🤝 Connect With Me
 
 <p align="center">
