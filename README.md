@@ -52,11 +52,15 @@ for organizing and managing campus events.
 ---
 
 
+
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/souravsanthoshk-code">
-    GitHub
+  <a href="https://www.linkedin.com/in/souravs07/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/souravsanthoshk-code" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
